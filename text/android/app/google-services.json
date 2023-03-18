@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170453823320",
+    "project_id": "tradeshield-fbbb9",
+    "storage_bucket": "tradeshield-fbbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170453823320:android:414b6242ffd910e790ff2d",
+        "android_client_info": {
+          "package_name": "com.example.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170453823320-7h456ept6faf9q316s7vf74lnhrdkn3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQ70pf4XpIIjY9TPKDtiQTlTvwGGhbRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170453823320-7h456ept6faf9q316s7vf74lnhrdkn3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
